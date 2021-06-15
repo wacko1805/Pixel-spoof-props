@@ -18,8 +18,8 @@ Changes your device props to the ones of the Google Pixel 5
 
 ## Downloads:
 * [Pixel 5 Spoofs](https://sourceforge.net/projects/pixel-spoof/files/Pixel%205%20Spoof)
-* [OG Pixel Spoofs](https://sourceforge.net/projects/pixel-spoof/files/OG%20Pixel%20Spoofs/)
-<i>Discontunuted:</i>
+* [OG Pixel Spoofs](https://sourceforge.net/projects/pixel-spoof/files/OG%20Pixel%20Spoofs/)<vr>
+<i>Discontinued:</i>
 * [Pixel 4a spoofs](https://sourceforge.net/projects/pixel-spoof/files/Pixel%204a%20Spoofs/)
 * [Pixel 4a 5G Spoofs](https://sourceforge.net/projects/pixel-spoof/files/Pixel%204a%205G%20Spoofs/)
 * [Pixel 4XL Spoofs](https://sourceforge.net/projects/pixel-spoof/files/Pixel%204%20XL%20Spoofs/)
