@@ -4,7 +4,8 @@ Changes your device props to the ones of the Google Pixel 5
 
 ## unsuported devices:
 * Xiaomi Devices
-* Some devices based on the Mediatek PLatform. 
+* Some devices based Mediatek Cpus
+* Let me know! 
 ## Requirements:
 
 * Magisk 18 or higher
